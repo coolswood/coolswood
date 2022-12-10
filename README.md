@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
 <h3 align="center">Senior full-stack developer from Estonia</h3>
 
-<br />
 <h3  align="left">Front-end languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a> &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" /> </a> &nbsp;
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" /> </a> &nbsp;
+<a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="50" height="50" /> </a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" /> </a> &nbsp;
 </p>
 
@@ -37,6 +37,7 @@
 <p align="left">
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50" /> </a> &nbsp;
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50" /> </a> &nbsp;
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
 </p>
 
 <h3  align="left">Testing Tools:</h3>
@@ -45,9 +46,9 @@
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50" /> </a> &nbsp;
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="50" height="50" /> </a> &nbsp;
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50" /> </a> &nbsp;
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="50" height="50" /> </a> &nbsp;
 </p>
 
-<br />
 <h3  align="left">My activity:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolswood&" alt="coolswood" /></p>
