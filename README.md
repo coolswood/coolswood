@@ -51,7 +51,9 @@
 
 <h3  align="left">My activity:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolswood&" alt="coolswood" /></p>
+<p><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolswood&" alt="coolswood" /></p>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/coolswood?theme=light)](https://leetcode.com/coolswood)
 
 <h3  align="left">Connect with me:</h3>
 <p align="left">
