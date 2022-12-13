@@ -9,6 +9,7 @@
 <a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" /> </a> &nbsp;
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="50" height="50" /> </a> &nbsp;
 <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" /> </a> &nbsp;
+<a href="https://zod.dev"> <img src="https://github.com/colinhacks/zod/blob/master/logo.svg" alt="zod" width="50" height="50" /> </a> &nbsp;
 </p>
 
 <h3 align="left">Back-end languages and Tools:</h3>
